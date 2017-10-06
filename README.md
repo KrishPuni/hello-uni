@@ -1,3 +1,3 @@
 # hello-uni
 Hi There!
-I'm a newbie here!.
+This is my first branch! i'm excited!
